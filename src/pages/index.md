@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Un espacio chileno por las ideas de la libertad
+image: /img/paisaje-chile-santiago-libre.jpg
+heading: Queremos generar un espacio en Chile donde se valora la libertad como filosofia
+subheading: Generamos instancias artisticas para dar la batalla cultural por el ideal de la sociedad libre.
 mainpitch:
-  title: Why Kaldi
+  title: ¿Por qué la libertad debe importarte a tí?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Porque sin libertad otros eligirán cómo usarás tu dinero, con quién puedes casarte, que trabajarás.
+    Crear una sociedad donde se respeta la liberta politica, económica, personal en igualdad ante la ley es la única forma en que tú (y nosotros) podemos vivir la mejor de nuestras vidas.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  No queremos imponer una ideologia politica cerrada, lo que queremos lograr es la popularidad y la supremacia del ideal libertario.
+
+  Entendiendo por esto, en su forma más amplia, simplemente como el respeto irrrestricto al proyecto de vida del otro sea en lo politico, lo social, lo sexual, lo económico, lo individual.
 intro:
   blurbs:
     - image: /img/coffee.png
