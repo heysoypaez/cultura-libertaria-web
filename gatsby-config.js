@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Centro cultural de ideas libertarias',
-    description:
-      '',
+    description: '',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
