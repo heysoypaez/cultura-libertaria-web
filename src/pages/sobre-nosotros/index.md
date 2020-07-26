@@ -1,19 +1,36 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Sobre Cultura Libertaria
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+_Cultura libertaria_ es la plataforma web a través la cual de la cuál la comisión de cultura del [partido libertario de Chile](https://partidolibertario.cl/) ayuda en su misión: _hacer posible un ambiente en Chile donde se valore la libertad del individuo como valor supremo._
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### La visión.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Queremos generar un espacio en Chile donde se valora la libertad como filosofia.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+No queremos imponer una ideologia politica cerrada, lo que buscamos lograr es la popularidad y la supremacia del ideal libertario por medio de la persuasión, reconociendo la libertad de cada individuo de seguir cualquier serie de ideas.
+
+Entendemos por _ideal libertario_, en su forma más amplia, simplemente como el respeto irrrestricto al proyecto de vida del otro sea en lo politico, lo social, lo sexual, lo económico, lo individual.
+
+### La misión.
+
+La acción de nuestra comisión es:
+1. Generar por nosotros mismos espacios de arte, cultura y comunicación para dar la batalla cultural en pro de [la sociedad libre](https://fppchile.org/blog/publicaciones/fundamentos-de-la-sociedad-libre/).
+2. Impulsar la cultura libertaria a través de apoyo a artistas, comunicadores y lideres culturales externos. 
+
+### Nuestros principios.
+
+1. Actitud propositiva antes de combativa. 
+	1. No pelear por espacios, sino generar espacios nuevos. 
+	2. Actitud constructiva antes de destructiva.
+2. El arte no debe regalarse. 
+	1. El arte es fruto del trabajo del artista, debemos ayudar a defender su propiedad intelectual.
+3. Ser aguerrido pero elegante a la vez.
+	1. No insultamos a la persona, criticamos sus ideas, sus acciones incluso con humor negro.
+4. No somos activistas. 
+	1. No necesitas salir  a la calle con un palo.
+5. El caos no es una propuesta.
+6. No somos dogmaticos en nuestro mensaje. 
+	1. El libertarismo no es una ideologia cerrada, es una filosofia abierta.
